@@ -1,4 +1,1 @@
-123
-21232131
-asdasdasd
-
+print(1)
